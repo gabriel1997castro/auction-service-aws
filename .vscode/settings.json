@@ -2,5 +2,6 @@
     "emmet.showAbbreviationSuggestions": false,
     "emmet.optimizeStylesheetParsing": false,
     "emmet.extensionsPath": "never",
-    "emmet.showExpandedAbbreviation": "never"
+    "emmet.showExpandedAbbreviation": "never",
+    "editor.tabSize": 2
 }
