@@ -1,16 +1,15 @@
 const schema = {
   properties: {
     body: {
-      type: 'object',
+      type: 'body',
       properties: {
-        title: {
-          type: 'string',
+        amount: {
+          type: 'number',
         },
       },
-      required: ['title'],
+      required: ['amount'],
     },
   },
   required: ['body'],
-}
-
+};
 export default schema;
